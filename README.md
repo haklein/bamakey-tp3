@@ -3,7 +3,7 @@ BaMaTech BaMaKey TP-iii clone. As Markus Baseler is <SK>, this is an attempt to 
 
 ![TP-iii body](images/tp3-body.png)
 
-# BOM
+# experimental BOM
 
 - 1x ISO 8734 Dowel pin 3x16mm m6 
 - 4x M2 screws for acrylic top cover
@@ -13,4 +13,27 @@ BaMaTech BaMaKey TP-iii clone. As Markus Baseler is <SK>, this is an attempt to 
 - grub screw dog point plastic fine thread m5x0,5 would be good but didn't find any
 
 - Isolating ball bearings: SS-HC-693-2RS-CN-ZV2-P6-GS Hybrid (Keramik, Edelstahl) Präzisions Miniatur Kugellager SS HC 693 2RS CN ZV2 P6 GS 3x8x4 mm
+
+# cnc parts
+First test run (paddles not yet in final shape):
+![cnc-parts](images/cnc_parts.jpg)
+
+Fitting test vice versa with original parts:
+![fititng-test](images/fitting_test.jpg)
+
+# caveats
+## contact block
+Very tight spacing:
+
+![contact_block_test](images/contact_block_test.jpg)
+![contact_block_test2](images/contact_block_test2.jpg)
+
+## magnet tip grub screw
+Didn't find any M5 fine threaded grub screws with magnetic tip. Self-made prototype:
+
+![magnetic_tip_grub_screw](images/magnetic_tip_grub_screw.jpg)
+
+Variant with glued on magnet:
+
+TODO
 

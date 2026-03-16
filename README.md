@@ -1,5 +1,5 @@
 # bamakey-tp3
-BaMaTech BaMaKey TP-iii clone. As Markus Baseler is <SK>, this is an attempt to reproduce the 3d files and BOM for his amazing TP-iii morse paddle.
+BaMaTech BaMaKey TP-iii clone. As Markus Baseler is < SK >, this is an attempt to reproduce the 3d files and BOM for his amazing TP-iii morse paddle.
 
 ![TP-iii body](images/tp3-body.png)
 
@@ -43,6 +43,6 @@ Didn't find any M5 fine threaded grub screws with magnetic tip. Self-made protot
 
 Variant with glued on magnet:
 
-![glued_tip](images/glue_guide.jpg)
+![glued_tip](images/glue-guide.jpg)
 
 
